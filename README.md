@@ -33,9 +33,9 @@
 
 
 
-# 📖 Awsome Books With React <a name="about-project"></a>
+# 📖 FROND END REACT APP <a name="about-project"></a>
 
-**Awsome Books With React** is a... Describe your project in 1 or 2 sentences.
+**FROND END REACT APP** is a... Describe your project in 1 or 2 sentences.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -48,7 +48,8 @@
   </ul>
 </details>
 
-
+LINK OF THE BACK END REPO:
+https://github.com/benja27/rails-backend-oneapp-practice/tree/set-up
 
 ### Key Features <a name="key-features"></a>
 
@@ -57,15 +58,6 @@
 - **[Use Create React APP]**
 - **[Use React Routes]**
 - **[Use React Redux]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-Coming soon...
-<!-- - [Live Demo Link](https://google.com) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,6 +76,7 @@ Install this:
 Node js
 Visual Studio Code
 Git
+
 
 
 
@@ -107,7 +100,7 @@ npm install
 ### Usage
 
 To run the project, execute the following command:
-npm run start
+npm run dev
 
 
 
@@ -118,7 +111,7 @@ npm run start
 ### Run tests
 
 To run tests, run the following command:
-npm run test
+there is no test on this repo
 
 
 
