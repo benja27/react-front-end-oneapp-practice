@@ -63,15 +63,6 @@ https://github.com/benja27/rails-backend-oneapp-practice/tree/set-up
 
 
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-Coming soon...
-<!-- - [Live Demo Link](https://google.com) -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 
