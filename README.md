@@ -48,7 +48,8 @@
   </ul>
 </details>
 
-
+LINK OF THE BACK END REPO:
+https://github.com/benja27/rails-backend-oneapp-practice/tree/set-up
 
 ### Key Features <a name="key-features"></a>
 
