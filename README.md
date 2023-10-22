@@ -33,9 +33,9 @@
 
 
 
-# 📖 Awsome Books With React <a name="about-project"></a>
+# 📖 FROND END REACT APP <a name="about-project"></a>
 
-**Awsome Books With React** is a... Describe your project in 1 or 2 sentences.
+**FROND END REACT APP** is a... Describe your project in 1 or 2 sentences.
 
 ## 🛠 Built With <a name="built-with"></a>
 
