@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import store from './component/redux/store'
 import { Provider } from 'react-redux'  
 import Gretting from './component/Gretting'
