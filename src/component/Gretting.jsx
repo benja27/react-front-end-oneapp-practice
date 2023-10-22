@@ -4,8 +4,8 @@ import { fetchGreeting } from './redux/gretting_slice';
 
 function Greeting() {
   const dispatch = useDispatch();
-  const greeting = useSelector(state => state.greeting.greeting);
-  const loading = useSelector(state => state.greeting.loading);
+  const greeting = useSelector((state) => state.greeting.greeting);
+  const loading = useSelector((state) => state.greeting.loading);
 
   useEffect(() => {
     dispatch(fetchGreeting());

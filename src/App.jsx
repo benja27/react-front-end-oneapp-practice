@@ -1,11 +1,9 @@
-import store from './component/redux/store'
-import { Provider } from 'react-redux'  
-import Gretting from './component/Gretting'
-import './App.css'
+import { Provider } from 'react-redux';
+import store from './component/redux/store';
+import Gretting from './component/Gretting';
+import './App.css';
 
-
-function App() {  
-
+function App() {
   return (
     <div>
       <Provider store={store}>
@@ -13,8 +11,8 @@ function App() {
           <Gretting />
         </div>
       </Provider>
-    </div>      
-  )
+    </div>
+  );
 }
 
-export default App
+export default App;
