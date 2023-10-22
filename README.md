@@ -87,6 +87,7 @@ Git
 
 
 
+
 ### Setup
 
 Clone this repository to your desired folder:
@@ -107,7 +108,7 @@ npm install
 ### Usage
 
 To run the project, execute the following command:
-npm run start
+npm run dev
 
 
 
@@ -118,7 +119,7 @@ npm run start
 ### Run tests
 
 To run tests, run the following command:
-npm run test
+there is no test on this repo
 
 
 
